@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+📫 How to reach me:
+let me know a good time at <br><a href="https://cal.com/polini">cal.com/polini</a>
+
 <!--
 **mzpolini/mzpolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
